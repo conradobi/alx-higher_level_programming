@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#!/usr/bin/python3
 def add(a, b):
     """My addition function
 
@@ -8,6 +9,7 @@ def add(a, b):
 
     Returns:
         The return value. a + b
+        :rtype: object
     """
     return (a + b)
 
